@@ -1,0 +1,16 @@
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.csproj.AssemblyReference.cache
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est__Probitie.Form1.resources
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.csproj.GenerateResource.cache
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.GeneratedMSBuildEditorConfig.editorconfig
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.AssemblyInfoInputs.cache
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.AssemblyInfo.cs
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.csproj.CoreCompileInputs.cache
+D:\unic\OOP\Est' Probitie\Est' Probitie\bin\Debug\netcoreapp3.1\Est' Probitie.exe
+D:\unic\OOP\Est' Probitie\Est' Probitie\bin\Debug\netcoreapp3.1\Est' Probitie.deps.json
+D:\unic\OOP\Est' Probitie\Est' Probitie\bin\Debug\netcoreapp3.1\Est' Probitie.runtimeconfig.json
+D:\unic\OOP\Est' Probitie\Est' Probitie\bin\Debug\netcoreapp3.1\Est' Probitie.runtimeconfig.dev.json
+D:\unic\OOP\Est' Probitie\Est' Probitie\bin\Debug\netcoreapp3.1\Est' Probitie.dll
+D:\unic\OOP\Est' Probitie\Est' Probitie\bin\Debug\netcoreapp3.1\Est' Probitie.pdb
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.dll
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.pdb
+D:\unic\OOP\Est' Probitie\Est' Probitie\obj\Debug\netcoreapp3.1\Est' Probitie.genruntimeconfig.cache
